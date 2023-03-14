@@ -1,0 +1,55 @@
+It helps to have a look first tho right? 
+
+Variables: https://practice.rs/variables.html
+
+Conditionals:
+
+Arrays: https://practice.rs/compound-types/array.html
+
+Strings: https://practice.rs/compound-types/string.html
+
+Functions: https://practice.rs/basic-types/functions.html
+
+Methods: https://practice.rs/method.html
+
+
+Ownership/borrowing tbc 
+
+Scope:
+
+Classes:
+
+Arrays:
+
+Loops:
+
+
+Numbers: https://practice.rs/basic-types/numbers.html
+
+Char, bool, unit: https://practice.rs/basic-types/char-bool-unit.html
+
+Statements and expressions: https://practice.rs/basic-types/statements-expressions.html
+
+Hash map data structures: https://practice.rs/collections/hashmap.html
+
+Package/crate library: https://practice.rs/crate-module/crate.html
+
+Modules in crates: https://practice.rs/crate-module/module.html
+
+
+Comments & docs: https://practice.rs/comments-docs.html
+
+Print/format: https://practice.rs/formatted-output/println.html
+
+
+Debug & display: https://practice.rs/formatted-output/debug-display.html
+
+Formatting: https://practice.rs/formatted-output/formatting.html
+
+https://practice.rs/lifetime/advance.html
+
+https://practice.rs/functional-programing/closure.html
+
+Iterator: https://practice.rs/functional-programing/iterator.html
+
+New type & sized: https://practice.rs/newtype-sized.html
